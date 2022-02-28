@@ -1,0 +1,623 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiritual salt: or, A sermon on Matth. 5.13. Ye are the salt of the earth- preached in Whitchurch at an ordination of five ministers, Febr.20.1649. By Tho. Porter, M.A. minister of the Gospel there.</title>
+            <author>Porter, Thomas, d. 1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90871</idno>
+            <idno type="STC">Wing P2998E</idno>
+            <idno type="STC">Thomason E629_14</idno>
+            <idno type="STC">ESTC R206441</idno>
+            <idno type="EEBO-CITATION">99865603</idno>
+            <idno type="PROQUEST">99865603</idno>
+            <idno type="VID">117849</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117849)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 97:E629[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Spiritual salt: or, A sermon on Matth. 5.13. Ye are the salt of the earth- preached in Whitchurch at an ordination of five ministers, Febr.20.1649. By Tho. Porter, M.A. minister of the Gospel there.</title>
+                  <author>Porter, Thomas, d. 1667.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. &amp; E.M. for Ralph Smith, at the signe of the blew Bible in Cornhill neer the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:117849:1" rendition="simple:additions"/> Spiritual Salt: OR, A SERMON On Matth. 5.
+13.</p>
+            <p>
+               <hi>Ye are the Salt of the earth</hi>—</p>
+            <p>Preached in <hi>Whitchurch</hi> at an Ordi<g ref="char:EOLhyphen"/>nation of five Miniſters, <hi>Febr.</hi> 20. 1649.</p>
+            <p>By Tho. Porter, M. A. Miniſter of the Goſpel there.</p>
+            <q>
+               <bibl>
+                  <hi>Luke</hi> 14. 34.</bibl>
+               <p>Salt is good, but if the Salt hath loſt his ſavour, wherewith ſhall it be ſeaſoned?</p>
+               <bibl>35.</bibl>
+               <p>It is neither fit for the land, nor yet for the dunghill, but men caſt it out. He that hath eares to hear, let him hear.</p>
+            </q>
+            <q>
+               <bibl>Origines interpretatur illud, <hi>Ezek.</hi> 16.</bibl>
+               <p>—Neque ſale ſalita—</p>
+            </q>
+            <q>
+               <p>Et hoc crimen (inquit) Hieruſalem, quia non fuerat digna Sale Dei. Ego ſi credi<g ref="char:EOLhyphen"/>dero Domino meo Jeſu Chriſto, ipſe me Salem faciet, dicetque mihi; VOS ESTIS SAL TERRAE—</p>
+               <bibl>
+                  <hi>Chamier. de Baptiſmo.</hi> 1. 5. <hi>c.</hi> 16.
+<hi>n.</hi> 32.</bibl>
+            </q>
+            <q>
+               <p>Scimus ſacrificia quae Deus mandaverat fuiſſe condìta ejus verbo tanquam SALE. Erant igitur boni odoris &amp; bonae fragrantiae coram Deo. Quòd and ſacrificia, quae offerebantur Idolis, ſpectat, erant foetida Cadavera, erant mora putredo. Atqui Caeremonia prorſus erat ſimilis.</p>
+               <bibl>
+                  <hi>Calv. Prael. in Jer.</hi> 16, 18.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. R.</hi> &amp; <hi>E. M.</hi> for <hi>Ralph Smith,</hi> at the ſigne of the blew Bible in Cornhill neer the Royal Exchange. 1651.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117849:2"/>
+            <pb facs="tcp:117849:2"/>
+            <head>To my Reverend Brethren in the <hi>Miniſtry,</hi> of the Claſſical Presbytery in <hi>Bradford-North.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>Everend and Dear Brethren in our Lord Jeſus Chriſt; At your command this Sermon was</hi> preached, <hi>and at your requeſt its printed; and to your Patronage its now</hi> preſented. Litera ſcripta manet;
+<note n="a" place="margin">Quod ſcriptum habetur ſemper v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cat ad legen<g ref="char:EOLhyphen"/>dum, cum vacat legenti; Ne one<g ref="char:EOLhyphen"/>roſum ſit prae<g ref="char:EOLhyphen"/>ſens, quod cùm voles ſumitur, cùm voles poni<g ref="char:EOLhyphen"/>tur. <hi>Aug Epiſt</hi> 1.</note> 
+               <hi>it may lye by you, as an hearty Memorial of my Reſpect, and as an humble Mo<g ref="char:EOLhyphen"/>nitor of your Duty, to continue and double your care (as there is occaſion) concerning</hi> Spiritual Salt. Ex quolibet ligno non fit Mercurius. <hi>Salt is not made of e<g ref="char:EOLhyphen"/>very ſort of water; Though (almoſt) every Mechanick thinks he can ſhape a ſatisfactory Anſwer to the Apoſtles Queſtion,</hi>
+               <note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 2 Cor 2. 16</note> Who is ſufficient <hi>(fit or meet)</hi> for theſe things? <hi>Yet</hi>
+               <note n="c" place="margin">1 Tim. 5. 22. Probem ego de ordinatione ac<g ref="char:EOLhyphen"/>cipi—Diu explo<g ref="char:EOLhyphen"/>randus eſt qui praeſicitur Eccle<g ref="char:EOLhyphen"/>ſiae. Ne ſi quod vitium liabe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dogmate aut vi<g ref="char:EOLhyphen"/>ta, veniat ordina<g ref="char:EOLhyphen"/>tor in culpae par<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em, tanquam obfirmator. <hi>Gretius loc.</hi>
+               </note> lay hands ſuddenly on no man, neither be partakers of other mens ſins. Keep your ſelves pure.
+<hi>Its too true; the children of your people ſtill are talking a<g ref="char:EOLhyphen"/>gainſt you—as God ſaid to the</hi>
+               <note n="d" place="margin">Ezek. 33. 32.</note> 
+               <hi>Prophet; But let not their fooliſh</hi> prating, <hi>hinder your faithful</hi> practiſing;
+<hi>Ra<g ref="char:EOLhyphen"/>ther imitate the Emperour</hi> Severus, <hi>of whom its reported, that</hi>
+               <note n="e" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Melch. Adam de vita Jo. Bugen<g ref="char:EOLhyphen"/>hagii.</hi> p. 316.</note> 
+               <hi>he was careful of his own</hi> carriage, <hi>and careleſſe of the peoples</hi> calumny <hi>concerning himſelf.</hi> Auſtin
+<note n="f" place="margin">Agrigentinum Siciliae Salem per<g ref="char:EOLhyphen"/>hibent, cum fuerit admotus igni velut in equa flueſcere: cum vero aquae adjungitur, velut in igne crepitare. <hi>Aug. Epitom. per piſcat. Tom.</hi> 1.
+<hi>p.</hi> 283.</note> 
+               <hi>mentions a Salt in</hi> Sicily, <hi>that when its put into the fire, it</hi> ſwims <hi>as if it were in water; but when its put into the water, it</hi> ſounds <hi>as if it were in the fire. Retain your
+<pb facs="tcp:117849:3"/> ſaltneſſe in all conditions and eſtates.</hi>
+               <note n="g" place="margin">Mark 9. 50. Ha<g ref="char:EOLhyphen"/>bete intra vos ſa<g ref="char:EOLhyphen"/>lem, qu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in<g ref="char:EOLhyphen"/>ter caetera
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, coagulat, ſtipat, ac jungit, <hi>h. e.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> pacem colite: Paces enim ſym<g ref="char:EOLhyphen"/>bolum ſal ae vitae.
+<hi>Himſ.</hi>
+               </note> Have Salt in your ſelves, and peace one with another.
+<hi>While the Ene<g ref="char:EOLhyphen"/>my is ſowing Tares, be you ſprinkling Salt; while others are throwing bones of diſſention, be you faſtning the Bond of brotherly union. If the bundle of Arrowes remaine faſt bound together, it is not eaſie to break them; if the bond be looſe or broken, its no hard matter to break them one after another. I am therefore bold to conjure you in the words of the Apoſtle.</hi>
+               <note n="h" place="margin">1 Cor. 1. 10.</note> Now I beſeech you brethren, by the name of our Lord Jeſus Chriſt, that ye all ſpeak the ſame thing, and that there be no Divisions among you, but that ye be perfectly joyned together in the ſame minde and in the ſame judgment.
+<hi>What an honour and happineſſe will it be to ſay with</hi> Myconius
+<note n="i" place="margin">Concurrimus, certavimus, pug navimus, VICI<g ref="char:EOLhyphen"/>MVS &amp; VIXI<g ref="char:EOLhyphen"/>MVS ſemper conjunctiſſimè, ut admiratione afficerentur plurimi ſuper illa rara fratrum <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp; conjunctione. <hi>Melch. Adam de vita Frid. Myconii p.</hi> 177.</note> 
+               <hi>We have run and wraſtled—conquered and converſed together alwayes unanimouſly, even to the admiration (I will not ſay the envie) of others. But if in theſe diſtracted and divided times there cannot (or will not) be oneneſſe of mind, yet let there oneneſſe of heart. Oh! let not difference in judgment produce diffe<g ref="char:EOLhyphen"/>rence of affection. Now the good Lord enable you to exert the power and property of good Salt; and the bleſſing of hea<g ref="char:EOLhyphen"/>ven go along with your holy labours, which is the continual and cordial prayer of</hi>
+            </p>
+            <closer>
+               <signed>Your affectionate freind and fellow-labourer in the Goſpel, Tho. Porter.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:117849:3"/>
+            <head>SPIRITUAL SALT: Or, A Sermon on Mat. 5. 13. <hi>Ye are the Salt of the Earth.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Evangelical Prophet <hi>Iſaiah,</hi>
+               <note n="a" place="margin">Iſa. 52. 14.</note> ſpeaking of Chriſt, tels us, <hi>That his Viſage was ſo marred more then any mans, and his forme more then the ſonnes of men;</hi> yet the Pro<g ref="char:EOLhyphen"/>phet
+<hi>David</hi>
+               <note n="b" place="margin">Pſal. 45. 2.</note> tels us, that,
+<hi>He was fairer then the children of men.</hi> Never was there more dung thrown upon the face of Chriſts Mi<g ref="char:EOLhyphen"/>niſters then at this day, and yet the Function is not in it ſelf any whit the leſſe venerable, though to ſome it be more then contemptible. Chriſt himſelf diſdains not the office of a Miniſter; A Mountain was the firſt Pul<g ref="char:EOLhyphen"/>pit wherein he preached, and my Text is part of the firſt Sermon which he preached. He comes like <hi>Noah's</hi> Dove, with an Olive-branch of Peace in his mouth, or
+<note n="c" place="margin">Grotius.</note> rather imitates
+<hi>David,</hi> who begins his Pſalmes with the Deſcription of a Bleſſed man; So Chriſt in certain Paradoxes to fleſh and blood pronounceth them bleſſed, whom the men of the world commonly count, and call wretched. Thus like a skilful Artiſt he firſt propounds the end,
+<hi>[Happineſſe]</hi> from <hi>verſ.</hi> 3. to 13. and then preſcribes the way, <hi>[Holineſſe]</hi> and that under a three<g ref="char:EOLhyphen"/>fold metaphor. 1. Of
+<hi>Salt,</hi> verſ. 13. 2. Of <hi>Light,</hi> verſ. 14. 3. Of a
+<hi>Candle,</hi> verſ. 15. From the coherence ſomething may be noted briefly by the way.</p>
+            <p n="1">
+               <pb n="2" facs="tcp:117849:4"/> 1. They who would be happy, muſt be holy,
+<hi>Heb.</hi>
+               <note place="margin">1. Muſcul.</note> 12. 14.—<hi>Without holineſſe no man ſhall ſee the Lord.</hi> The men of the world are much miſtaken, who (if you beleeve them) would be happy, but ſcorn to be holy; But what is holineſſe, but happineſſe inchoate? and what is happineſſe, but holineſſe conſummate? They ſay, there is a natural deſire in men to be happy. I am ſure there is a natural antipathy in men to be holy. If carnal men had leave to peep into heaven, and to ſee what holy ſpirits and what holy ſervices are there, they would loath no place more; As a Beggar would diſlike no place more then the Court, where he ſees the King in his Majeſty, and the Nobles in their gallant deport<g ref="char:EOLhyphen"/>ment,—as unſuitable altogether to his ſordid ſpirit and baſe behaviour.</p>
+            <p n="2">2. If the text be referred to the laſt beatitude,
+<hi>v.</hi> 11, 12.
+<note place="margin">2. Pareus.</note> Chriſt doth incourage his Apoſtles to duty, from a con<g ref="char:EOLhyphen"/>ſideration of their dignity. What need they care for an Earthquake, who <hi>are the Salt of the Earth?</hi> or the darkneſſe of this world, who <hi>are the Light of the World?</hi> The greater dignity, the greater duty, 1 <hi>Tim.</hi> 3. 1.—<hi>A good work.</hi> The Miniſtry of the Word is a work, there is the duty; And its a good, or (as
+<note n="d" place="margin">e <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Pra<g ref="char:EOLhyphen"/>ctarum, ac proinde ardu<g ref="char:EOLhyphen"/>um, ſi quod a<g ref="char:EOLhyphen"/>liud uſquam eſt. <hi>Beza in 1 Tim.</hi> 3.
+1.</note> 
+               <hi>Beza)</hi> an ex<g ref="char:EOLhyphen"/>cellent, fair, honourable work, there is the dignity.</p>
+            <p n="3">3. Chriſt might have expreſſed himſelf in proper termes, as well as figurative, but theſe are more pow<g ref="char:EOLhyphen"/>erful and prevalent. Away then with that unſavoury Paradox; That Figurative expreſſions become not Chriſts Sermons, belong not to a Miniſters preaching.</p>
+            <p>But I come to the Text, which (were I pleaſed with crumbling of a Text,) I might divide into theſe parts, 1. The Subject, <hi>[Ye]</hi> 2. The Copulate, <hi>[Are]</hi> 3. The Predicate, <hi>[Salt]</hi> 4. The Extent or Object thereof, <hi>[Earth] Ye are the Salt of the Earth.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:117849:4"/> 
+               <hi>Ye]</hi> Some perhaps may ſay to me, as the Eunuch ſaid to <hi>Philip,</hi> Acts 8 34. <hi>I pray thee of whom ſpeaks the Prophet this?</hi> ſo of whom doth the great Prophet of his Church ſpeak this? Its certain of the Apoſtles; but whether of the Apoſtles as Miniſters, or as Diſciples, is the queſtion?
+<note n="e" place="margin">Camer. Prae<g ref="char:EOLhyphen"/>lect. in Mat. 13. 15. p.
+103.</note> This notion may help much to the ge<g ref="char:EOLhyphen"/>nuine underſtanding of many places. For, becauſe Chriſt ſaid, <hi>Drink ye all of this.</hi> Papiſts would have it ſaid to the Apoſtles as Miniſters, and ſo ſacrilegiouſly rob the people of the Cup. Moſt Expoſitors whom I have met with, underſtand this of the Apoſtles as Mi<g ref="char:EOLhyphen"/>niſters; But I am almoſt overcome with <hi>Grotius</hi> his reaſons, that there is no reaſon of ſuch a reſtraint. For 1. Thoſe
+<note n="f" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Beatitudes are common to all the Diſciples of Ieſus Chriſt. 2. The Expreſſion in the two uſes im<g ref="char:EOLhyphen"/>mediately preceding, concern all Chriſtians who ſuf<g ref="char:EOLhyphen"/>fer for the truth. 3. Its very clear, that the ſame per<g ref="char:EOLhyphen"/>ſons who are called here, <hi>The Salt of the Earth,</hi> are called <hi>The Light of the World,</hi> verſ. 14. which is the property and praiſe of all Chriſtians,
+<hi>Phil.</hi> 2. 15.—<hi>Ye ſhine as Lights in the World;</hi> and ſo
+<note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Juſtin Martyr</hi> accordingly, Look what the ſoul is in the body, that are Chriſtians in the world. 4. To put all out of doubt, that which is here ſaid of <hi>Salt,</hi> is ſpoken to the multitude, <hi>Luke 14. 25. And there went great multitudes with him, and he turned and ſaid <g ref="char:V">Ʋ</g>NTO THEM,</hi>—verſ. 34.—<hi>If the Salt hath loſt his ſavour, where<g ref="char:EOLhyphen"/>with ſhall it be ſeaſoned?</hi> Though I think without wrong<g ref="char:EOLhyphen"/>ing the Text, it may be underſtood generally of
+<note n="h" place="margin">Renatis in Chriſto dici<g ref="char:EOLhyphen"/>tur vos eſtis ſal terrae. <hi>Hier<g ref="char:EOLhyphen"/>in Luke</hi> 16. 4.</note> Chriſtians or the Diſciples of Chriſt, but ſpecially of the Miniſters of Chriſt, according to
+<note n="i" place="margin">Ad ipſos <hi>PRAECIPUE</hi> loquitur.
+<hi>Chrys. in loc. Hom.</hi> 10.</note> 
+               <hi>Chryſoſtome;</hi> Therefore at this time I ſhall ſpeak to the Text, as rela<g ref="char:EOLhyphen"/>ting to the Miniſters of Jeſus Chriſt, not excluding the other Members of Chriſt.</p>
+            <p>
+               <pb n="4" facs="tcp:117849:5"/> 
+               <hi>Are]</hi> i. e. by my calling ye are ſet apart, as
+<note n="k" place="margin">Mea voca<g ref="char:EOLhyphen"/>tione delecti &amp; deſtinati eſtis. <hi>T. C. Harm. Evang.</hi>
+               </note> ſome expound it, or, ye ought to be <hi>the Salt of the Earth,</hi> (as <hi>Pareus,)</hi> for here Chriſt inſtructs the Apoſtles in the execution of their Miniſterial Function.</p>
+            <p>
+               <hi>Salt]</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The Article is emphatical and demon<g ref="char:EOLhyphen"/>ſtrative (as <hi>Piſcat.</hi> notes) That moſt eminent
+<hi>Salt,</hi> with which all other kinds of <hi>Salt</hi> are not to be compared; ye are to put forth the vigour and vertue, the power and pro<g ref="char:EOLhyphen"/>perty, the efficacy and excellency of <hi>Salt,</hi> as you ſhall hear anon more fully.</p>
+            <p>
+               <hi>Of the Earth]</hi> i. e. The world, (as it ſeems) verſe following, namely mankind, or man inhabiting the earth or world. Nothing is more frequent in Scripture, 1 <hi>Kings</hi> 10. 24. <hi>All the earth ſought to</hi> Solomon,—And ſo it ſeems to hold forth ſome Priviledge peculiar to the Apoſtles, and a diſtinction between the Miniſtry of the Prophets and of the Apoſtles, <hi>q. d</hi>
+               <note n="l" place="margin">Chryſoſt. &amp; Chemnitius.</note> They were the <hi>Salt</hi> of a poor patch of ground, a corner of the world,
+<hi>viz. Judaea, But you are the Salt of the Earth:</hi> The whole earth is your Dioceſſe or Province; But as the words are reſtrained to Chriſts Miniſters, ſo they hold out that they are to ſeaſon the minds of them, who ſavour earthly things, (as <hi>Bed.</hi>
+               <note n="m" place="margin">Bonum eſt cum Apoſtolis ſal terrae fieri <hi>i. e.</hi> eorum qui adhuc ter<g ref="char:EOLhyphen"/>rena ſapierat mentio imbu<g ref="char:EOLhyphen"/>endis ſufficere. <hi>Beda in Mark</hi> 9.—</note> obſervs) The difference (if any) is not much.</p>
+            <p>The words thus opened, afford to us this Doctrinal Truth.</p>
+            <p>
+               <hi>Doct.</hi> The Miniſters of Chriſt are, or ought to be
+<hi>the Salt of the Earth.</hi>
+            </p>
+            <p>For the clearing and confirming of this, I ſhall pro<g ref="char:EOLhyphen"/>pound and anſwer a few queſtions.</p>
+            <p n="1">1. <hi>Who are the Salt?—Anſw.</hi> without doubt,
+1. God in Chriſt by his Spirit is the principal efficient, as to the ſeaſoning quality of <hi>Salt.</hi> 2. The holy Scripture is the primary inſtrument. 3. The Miniſters of Chriſt are the ſecondary inſtrument, and ſo here.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:117849:5"/> 2. <hi>How are Miniſters Salt? Anſw.</hi> Interpreters unanimouſ<g ref="char:EOLhyphen"/>ly aſſert, according to their Function rather then their Perſons. <hi>Calvin</hi>
+               <note n="n" place="margin">Intelligit Chriſtus eo<g ref="char:EOLhyphen"/>rum eſſe Mu<g ref="char:EOLhyphen"/>nus ſalire ter<g ref="char:EOLhyphen"/>rum. <hi>Calv. in toc.</hi>
+               </note> ſaith, <hi>It is their office to Salt the Earth. Gualt.</hi> ſaith,
+<note n="o" place="margin">—Non tam ad perſonas q
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>àm ad Mu<g ref="char:EOLhyphen"/>nus<g ref="char:punc">▪</g>
+                  <hi>Gualt.</hi> Injunctum E<g ref="char:EOLhyphen"/>vangelizandi Munus. <hi>Muſe.</hi>
+               </note> 
+               <hi>The words relate not ſo much to their Perſons as to their Function.</hi> It is their work and buſineſſe ſo to do, where (in the Text) <hi>Pareus</hi>
+               <note n="p" place="margin">Sc. Synechd. &amp; Metaphora.
+<hi>Pare.</hi>
+               </note> notes a double figure, <hi>Earth</hi> is put for the inhabitants of the earth; and <hi>Salt</hi> for them who perform the office of
+<hi>Salt.</hi>
+            </p>
+            <p n="3">3. <hi>Wherein? Anſw.</hi> 1. Inreſpect of
+<hi>Purity</hi> of Doctrine, diſpenſing aright both Law and Goſpel; (as there is oc<g ref="char:EOLhyphen"/>caſion) to the people, <hi>i. e.</hi> (as <hi>Theophilact)</hi> notes
+<note n="q" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.
+<hi>Theophil.</hi>
+               </note> by inſtru<g ref="char:EOLhyphen"/>ction and reprehenſion, diſtinguiſhing between the preci<g ref="char:EOLhyphen"/>ous and the vile. I am notignorant they are called Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel, not that they may not preach the Law
+<note place="margin">3.</note> at all, as the Antinomian dreams (for in this firſt Sermon preached by Chriſt in the Mount, the Law was preached by him, and muſt our Saviour be a legal Preacher in the phraſe of the times?) but becauſe they are to preach the Goſpel chiefly.—</p>
+            <p>2. In reſpect of <hi>Piety</hi> of Life. Moſt of men live by ex<g ref="char:EOLhyphen"/>amples; They therefore are to be enſamples to the flock, 1 <hi>Pet. 5. 3. Sapientiâ docere—moribus edificare,</hi> (as <hi>Auſtin</hi> ſpeaks) to preach both by Doctrine and Life. What is the meaning of that?
+<hi>Lev. 2. 13.—Salt of the Covenant;</hi> but to remind us of the Covenant which we have made,
+<note n="r" place="margin">Piſcat.</note> and wherein we have ingaged our ſelves to an hearty endeavour after incorruption in life and converſation. You have both theſe together, 1 <hi>Tim. 4. 12.—Be thou an example of Believers in—converſation—in faith;</hi> &amp;
+<hi>Tit. 2 7. In all things ſhew thy ſelf a pattern of goodworks,</hi> in doctrine, uncorruptnes, elſe as a great Divine
+<note n="s" place="margin">Qui benè do<g ref="char:EOLhyphen"/>cet &amp; malè vi<g ref="char:EOLhyphen"/>vit, is ſiniſtrâ plus deſtiuit quam extruit dextrâ. <hi>M. A<g ref="char:EOLhyphen"/>dam. de vita Conrad. Summer hord. p.</hi> 12.</note> ſaid in the dawning of Reformation; He that preacheth well and liveth ill, ruines more with his left hand, then he rears up with his right hand.</p>
+            <p>Why are they compared to <hi>Salt?</hi>
+            </p>
+            <p n="1">
+               <pb n="6" facs="tcp:117849:6"/> 1. Becauſe of the <hi>piercing</hi> or
+<hi>pinching</hi> quality. <hi>Salt</hi> (we know) bites and eats. So Miniſters by the doctrine of the Law, pinch the conſcience of a ſinner till he be convin<g ref="char:EOLhyphen"/>ced of ſin. Thus did Chriſt himſelf with the woman of
+<hi>Samaria, John</hi> 4. 18. Thus did <hi>Peter</hi> with thoſe hearers,
+<hi>Acts</hi> 2. 37. yea, they do it by the Goſpel too; which diſ<g ref="char:EOLhyphen"/>creetly preached, bites the people till ſome of them bite their lips, and gnaw their tongues for pain. The Spirit in the Goſpel-Miniſtry of the Apoſtles, convinced the world of ſin, of righteouſneſſe, and of judgment,
+<hi>John</hi> 16. 8.</p>
+            <p n="2">2. Becauſe of the <hi>purging</hi> quality, <hi>Salt</hi> (we know) ſcou<g ref="char:EOLhyphen"/>reth and cleanſeth; Leeches are ſcowred with
+<hi>Salt,</hi> before the Phyſician applies them to his Patient, to take away the rank humour. Glaſſes are rub'd and ſcowred with <hi>Salt</hi> too. So Chriſt clenſeth his Church—by the Word, <hi>Eph.</hi> 5. 26. The Diſciples themſelves were clean by the Word, which Chriſt ſpake to them, <hi>Iohn</hi> 15. 3. How may a young man cleanſe his way, but by the word? <hi>Pſ.</hi> 119. 9.</p>
+            <p n="3">3. Becauſe of the <hi>preſerving</hi> quality;
+<note n="t" place="margin">Salis praeci<g ref="char:EOLhyphen"/>pua vis eſt ad<g ref="char:EOLhyphen"/>verſus putredi<g ref="char:EOLhyphen"/>nem. <hi>Grotius.</hi>
+               </note> The chiefeſt ver<g ref="char:EOLhyphen"/>tue of <hi>Salt,</hi> is againſt Putrefaction. Hence that of <hi>Varro,</hi>
+               <note n="u" place="margin">Suillo pecori animam pro Sale datam ne putreſceret; <hi>borrowed from</hi> Cleanthes. Id. ☜</note> Nature hath given to a Swine a ſoul or life, in ſtead of <hi>Salt,</hi> leaſt it ſhould rot above ground. In former times it was an ancient Rite in making a Covenant to uſe <hi>Salt,</hi> therefore called <hi>A Covenant of Salt, 2 Chron. 13. 5. i. e.</hi> an authentical, inviolable, and incorruptible Covenant; be<g ref="char:EOLhyphen"/>cauſe <hi>Salt</hi> dries up the ſuperfluous humours which are the ground of putrefaction. Mark, its a Covenant of <hi>Salt,</hi> and not a Covenant of <hi>Sand.</hi> Godly and learned
+<note n="x" place="margin">4 last things</note> Maſter
+<hi>Bol<g ref="char:EOLhyphen"/>ton</hi> mentions ſome texts of Scripture, of which (he thinks) we ſhall not underſtand the genuine meaning, till the day of judgement, to which I may boldly adde, <hi>Mark</hi> 9. 49. <hi>For every one ſhall be ſalted with fire, and every ſacrifice ſhall be ſalted with ſalt;</hi> If the words relate to the damned,
+<note n="y" place="margin">Maldonate.</note> they ſhew the perpetuity of their torments, becauſe every
+<pb n="7" facs="tcp:117849:6"/> one, <hi>i. e.</hi> of THEM ſhall be ſalted with the fire of hell, <hi>i. e.</hi> They ſhall burn as fuel in the fire, and yet be preſerved as fleſh or fiſh pickled in <hi>Salt;</hi> and ſo the particle <hi>And</hi> is not copulative but comparative, <hi>ſc.</hi> and
+<hi>i. e.</hi> as every ſacrifice in the Law was to be ſalted with
+<hi>Salt.</hi> And what is more frequent in Scripture, then to term people ſlain or deſtroy<g ref="char:EOLhyphen"/>ed, by the name of a <hi rend="sup">z</hi> Sacrifice? or if the words relate to <hi>verſ.</hi> 47. then they ſeem to be an argument to perſwade the plucking out of an offending eye, becauſe every one is to be ſalted
+<note n="a" place="margin">Iſa 34. 6. Jer. 12. 3. &amp; 46. 10. &amp; 51. 40. Eze. 24 9, 10. &amp;. 39 17.</note> with the fire of Gods wrath, or of Gods grace. The phraſe to ſalt with fire, is no more improper then to baptize or waſh with fire, <hi>Mat.</hi> 3. 11. whatſoever the ſenſe is, all agree, the words hold out the preſerving pro<g ref="char:EOLhyphen"/>perty of
+<hi>Salt;</hi>—So Miniſters preſerve people from rotting in ſin, and ſtinking in the noſtrils of God and good men—</p>
+            <p n="4">4. Becauſe of the <hi>pleaſing</hi> quality;
+<hi>Salt</hi> makes meat pleaſant to the palat,
+<note n="b" place="margin">Ludovic. de Dieu.—Si non jam igne Divinae gratiae, certè aliquan<g ref="char:EOLhyphen"/>do igne divinae irae.</note> it renders it ſavoury? Thus when <hi>Eliſha</hi> threw <hi>Salt</hi> into the ſpring, the water became ſavoury,
+<note n="c" place="margin">Sale ineſt ſa<g ref="char:EOLhyphen"/>por &amp; acor. Sa<g ref="char:EOLhyphen"/>pore cibos in<g ref="char:EOLhyphen"/>ſipidos reddit gratos &amp; nutri<g ref="char:EOLhyphen"/>tios. Acore car<g ref="char:EOLhyphen"/>nes à corrupti<g ref="char:EOLhyphen"/>one &amp; putredi<g ref="char:EOLhyphen"/>ne conſervat. <hi>Par. in loc.</hi>
+               </note> 2
+<hi>Kings</hi> 2. 21. though I confeſſe that proceeded not from the natural property of <hi>Salt,</hi> but from the ſupernatural power of God, yet that refers to Goſpel times, <hi>Ez. 43. 24. the Prieſt ſhall caſt ſalt on the offerings,</hi> &amp;c.—So people came to ſavour ſpi<g ref="char:EOLhyphen"/>ritual things, <hi>Rom.</hi> 8. 5.: Hence came that Proverb among the Martyrs,
+<hi>Brown bread and the Goſpel is good fare;</hi> and is not any meat and this <hi>Salt</hi> good chear?</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. It informs our judgements. 1. Mankind natu<g ref="char:EOLhyphen"/>rally are altogether unſavoury; There is in men nothing but inſipidity and inſulſity, till they be ſeaſoned with the <hi>Salt</hi> of heavenly doctrine, and the grace of Chriſts ſpirit,
+<note place="margin">
+                  <hi>e</hi> Ratio non ſi<g ref="char:EOLhyphen"/>nit naturalis, ut quicquam inſulſum co<g ref="char:EOLhyphen"/>medi poſſit. <hi>Hier. in Iob</hi> 6. 6.</note>
+               <hi>Iob 6. 6. Can that which is unſavoury be eaten</hi>
+               <note n="d" place="margin">Inſipidus eſt omnis cibus, fi non hoc ſale conditur. <hi>Bern. in Cantic. Serm.</hi> 15.</note> 
+               <hi>without ſalt? or is there any taſte in the white of an egge?</hi> And ſome think that Sycomore tree, <hi>Luke</hi> 19. 4. is ſo called becauſe of its unſavoury fruit. All men are freſh men in the Univerſity of this world, till they be thus ſalted.</p>
+            <p>
+               <pb n="8" facs="tcp:117849:7"/> 2. Nay, Mankind naturally ſtinks in the noſtrils of God and good men, as tainted fleſh, or carrion in a ditch. Fleſh unſaulted is quickly tainted. This, man hath from <hi>Adams</hi> ſinne, <hi>Pſal.</hi> 14. 3.—<hi>They are altogether become filthy,</hi> (or ſtinking,
+<note n="e" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Faetere putreſ<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, tantùm in Niph. inve<g ref="char:EOLhyphen"/>nitur, <hi>Iob 15. Pſ. 14. Pagnine</hi>
+               </note> as it is in the Original.) which word (as <hi>Piſcator</hi> notes) is uſed but once more in the Scripture, <hi>viz. Iob 15. 16. How much more abominable and filthy is man,—</hi>
+               <note n="f" place="margin">Hâc meta<g ref="char:EOLhyphen"/>phoricâ
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocu<g ref="char:EOLhyphen"/>tione fatuam &amp; corrupti<g ref="char:EOLhyphen"/>oni obnoxiam hominum na<g ref="char:EOLhyphen"/>turam indicat quae—magis eſt foetida &amp; rejectanea in oculis Dei, quam ſint ran<g ref="char:EOLhyphen"/>cidae &amp; putri<g ref="char:EOLhyphen"/>dae carnes in hominum con<g ref="char:EOLhyphen"/>ſpectu. <hi>Parc.</hi>
+               </note> Its obſerved to my hand, that it holds forth, that mans nature, unleſſe it be ſalted with the Miniſtry of the Word, is more filthy in Gods eyes, then putrid fleſh can be in the eyes of men. The beſt natural man hath no reaſon to be proud of his beſt natural parts.</p>
+            <p>3. All men out of Chriſt are obnoxious to deſtruction and rejection; if liable to Putrefaction, then to Perdition; Therefore called children of Perdition. That poor Infant which reſembles mans natural condition, as well as <hi>Ieru<g ref="char:EOLhyphen"/>ſalems</hi> is ſaid to be not ſalted at all, <hi>Ezek.</hi> 16. 4.—i. e. in a ſad periſhing condition.
+<note n="g" place="margin">Solent infan tium tenera corpora, dum adhuc uteri ca<g ref="char:EOLhyphen"/>lorem retinent, ſale contingi, ut ſiccentur &amp; ſtringantur. <hi>Hier. loc.</hi>
+               </note> It was a cuſtome among the Jews, to uſe <hi>Salt</hi> about infants while they retain the heat of the womb, to dry up, cleanſe and ſtrengthen the body of the child. The want of this was ſometime the death of the child.</p>
+            <p>2. It confutes. 1. Some high flown Saints, (Nominal, I dare ſay not real,) who proudly and vainly conceit them<g ref="char:EOLhyphen"/>ſelves
+<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe 2.</note> to be above all Ordinances, and ſo above the Mini<g ref="char:EOLhyphen"/>ſtry of the Word: But I would ask them where are they? Above in heaven? or below on earth? Perhaps in affection they may be in heaven, but in Perſon on earth; And are not Miniſters the <hi>Salt</hi> of the earth? Its a good caution of <hi>Chem<g ref="char:EOLhyphen"/>nitius,</hi>
+               <note n="h" place="margin">Illis etiam qui juſtificati ſunt, opus eſſe hòc ſale, ne denuò occupa<g ref="char:EOLhyphen"/>ti putrefactio<g ref="char:EOLhyphen"/>ne cecidant in corruptionem &amp; perditionem <hi>Chemnit. Harm. c. 51.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eric.</hi> 2.</note>
+               <hi>That even juſtified ones have need of this Salt, leſt putrefaction expoſe them to Perdition.</hi> A juſt judgement of God who ſets a viſible ſcarre and brand on ſome ſuch ſeem<g ref="char:EOLhyphen"/>ing Saints, by giving them up to their own hearts luſts, who thus contemn the Miniſtry. While we are in the wildernes
+<pb n="9" facs="tcp:117849:7"/> of this world, the beſt will ſtand in need of <hi>Manna</hi> and <hi>Salt, Eph.</hi> 4. 11. Chriſt hath given Paſtors and Teachers,—v. 13. <hi>Till we ALL come in the <g ref="char:V">Ʋ</g>nity of the Faith, and of the knowledge of the Son of God unto a PERFECT man.—</hi>
+            </p>
+            <p>2. The vulgar rabble, a ſottiſh people of a perverſe judgement, who think,</p>
+            <p>1. That the Miniſters of the Word are not neceſſary; Of any calling, that may be beſt ſpared; You have heard out of this place by a godly
+<note n="i" place="margin">Mr P.</note> Brother, on the like occaſion; You muſt have a Farryer for your Horſe, &amp;c. A Phyſici<g ref="char:EOLhyphen"/>an for your bodies, and no Miniſtry for your ſick ſouls? I am bold to add, You cannot live without <hi>Salt,</hi> and can you live without the Miniſtry of the Word? Chriſt ſaith, <hi>Mark 9. 50. Salt is good;</hi> neceſſarily good.—Its truly alledged by <hi>Pareus,</hi>
+               <note n="k" place="margin">Tam neceſſa<g ref="char:EOLhyphen"/>ria eſt veroi Praedicatio ad ſalutem noſtra<g ref="char:cmbAbbrStroke">̄</g> quàm Sal—ad carnes à pu<g ref="char:EOLhyphen"/>tridine ſervan<g ref="char:EOLhyphen"/>das.</note> The preaching of the Word is as neceſſary to ſave the ſoul from corruption, as <hi>Salt</hi> is to preſerve fleſh from Putrefaction. The Philoſophers ſay, nothing more needful or more profitable then the Sun and Salt. I have read of one
+<note n="l" place="margin">Conſideration of the Doct ine of the Synod of <hi>Dort</hi> and Ar<g ref="char:EOLhyphen"/>ticles reduced to practiſe. <hi>p.</hi>
+7.</note> that was ſtrongly opinio<g ref="char:EOLhyphen"/>nated, that a man might live without fire, for any thing he was to uſe, till one asked him how a ſhooe for his horſe, or a nayle for his horſe-ſhooe could be made without fire? So ſome diſtreſſed condition may bring a conviction on theſe mens ſpirits, concerning ſome neceſſity of the Words-Miniſtry; of which we may ſay as he of Friend<g ref="char:EOLhyphen"/>ſhip, Fire and Water (to which adde <hi>Salt)</hi> are not more uſeful; my Text holds forth the neceſſity
+<note n="m" place="margin">Eccleſiaſti<g ref="char:EOLhyphen"/>ci Miniſterii NECESSI<g ref="char:EOLhyphen"/>TATEM indi<g ref="char:EOLhyphen"/>cat. <hi>Pare.</hi>
+               </note> of the Miniſtry.</p>
+            <p>Secondly, That the Miniſters of the Word are not vene<g ref="char:EOLhyphen"/>rable. There is no excellency to be found in them; therfore in ſcorn call them Pariſh-Prieſts, pariſh-Miniſters, &amp;c. I know the word
+<hi>Parochi</hi> is no Scripture-name, (neither are the Miniſters of the Goſpel termed Prieſts in the N. T.
+<note n="n" place="margin">Nomen Sa<g ref="char:EOLhyphen"/>cerdotis Evan<g ref="char:EOLhyphen"/>gelium NVL<g ref="char:EOLhyphen"/>LI praeterqua<g ref="char:cmbAbbrStroke">̄</g> Chriſto in ſuâ &amp; propriâ ſig<g ref="char:EOLhyphen"/>nificatione tri<g ref="char:EOLhyphen"/>buat <hi>Whitak.</hi> contra Dec. <hi>l.</hi> 9<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> which belongs to all the faithful,) yet the riſe and uſe of it ſeems to be reverend; For if we may beleeve <hi>Polyd. Vir<g ref="char:EOLhyphen"/>gil,</hi>
+               <pb n="10" facs="tcp:117849:8"/>
+               <note n="o" place="margin">De Invent. Rerum. <hi>l.</hi> 4.
+<hi>c.</hi> 9. <hi>p.</hi> 362.</note> he ſaith, They were certain Magiſtrates among the Romans, whoſe charge was to provide Fire and
+<hi>Salt</hi> for publike Ambaſſadors.
+<note n="p" place="margin">—Et Parochi quae debent ligna ſalem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Horat. l 1. Ser<g ref="char:EOLhyphen"/>monum.</hi>
+               </note>—Now becauſe alſo among the Hebrews no Sacrifice was made without Fire and <hi>Salt,</hi> therefore Miniſters of the Word, providing for their Pa<g ref="char:EOLhyphen"/>riſhioners things neceſſary for their ſouls ſalvation, its not without cauſe that we call them pariſh-Miniſters. But let that name go, who doats on it? yet it hints the neceſſity of their calling, and excellency of their Perſons.
+<hi>Homer</hi> cals <hi>Salt</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſome divine thing, and that which <hi>Livy</hi> ſaith of <hi>Grecia</hi> may more truly be ſaid of them, <hi>Sal Genti<g ref="char:EOLhyphen"/>um,</hi> The Salt of the Nations, or, as my Saviour here,
+<hi>The Salt of the Earth,</hi> i. e. That moſt excellent
+<note n="q" place="margin">See <hi>J. Down.</hi> on <hi>Tit. 2. 15. p.</hi> 2</note> 
+               <hi>Salt</hi> with which all other kinds of <hi>Salt</hi> are not to be compared, as you heard even now out of <hi>Piſcator</hi> opening the Text; I am ſure its no diſparagement to call them (as they are) ſpiritual Salters. Nay, other Salters keep fleſh from Putre<g ref="char:EOLhyphen"/>faction, but cannot make putrid meat ſound and ſweet, if tainted. But this <hi>Salt</hi> can make a corrupt ſoul to become incorrupt, as <hi>Chryſostome</hi> well obſerves.</p>
+            <p>3. That Miniſters are not men of a peaceable diſpoſition, but turbulent ſpirits, where they come, as <hi>Luther</hi> was called,
+<hi>Tuba Seditionis,</hi> the Trumpet of ſedition, ſo was <hi>Paul</hi> called by <hi>Tertullus,</hi>
+               <note n="r" place="margin">—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, peſtem
+<hi>Beza.</hi> Annot. in <hi>Act.</hi> 24. 5.</note> 
+               <hi>A peſtilent fellow,</hi> the Peſt and plague of a country, as the word ſignifies, but as they are the <hi>Salt</hi> of the earth, ſo they are bidden to have
+<hi>Salt</hi> in themſelves, and peace one with another, <hi>Mark</hi> 9. 50.
+<note n="s" place="margin">Locus ele<g ref="char:EOLhyphen"/>gans &amp; erudi<g ref="char:EOLhyphen"/>tus. Inter prae<g ref="char:EOLhyphen"/>cipuas Salis facultates, eſt quod unit den<g ref="char:EOLhyphen"/>ſat &amp; q. coa<g ref="char:EOLhyphen"/>gulat—undè &amp; in Foederi<g ref="char:EOLhyphen"/>bus tanquam unionis teſſera Hebrae is uſita<g ref="char:EOLhyphen"/>tum. <hi>Heinſ.</hi> in <hi>Mark</hi> 9. 50.</note> an excellent text (as <hi>Heinſius</hi> obſerves) Among the properties of
+<hi>Salt,</hi> this is none of the leaſt, that it unites and as it were coagu<g ref="char:EOLhyphen"/>lates,—therefore uſed among the Hebrews in making Covenants as a Symbole and Badge of Peace and Union, <hi>Numb.</hi> 18. 19.—A
+<hi>Covenant of Salt.</hi> Miniſters ſerve to unite ſcattered and divided affections.</p>
+            <p>4. That, Art, Schollerſhip, or Learning, is not requiſite
+<pb n="11" facs="tcp:117849:8"/> in a Miniſter. Some ſpeak broadly, that as Miniſters are not neceſſary for the people, ſo learning is not neceſſary for a Miniſter. But is there no Art in making <hi>Salt?</hi> Go to the Wyches
+<note n="t" place="margin">Namptwich <hi>and</hi> Dirtwich <hi>where Salt is made.</hi>
+               </note> on both ſides this town, and ſee and be con<g ref="char:EOLhyphen"/>vinced. That ſweet perfume made of ſundry fragrant ſpi<g ref="char:EOLhyphen"/>ces is ſaid to be a Confection after the ART of the Apo<g ref="char:EOLhyphen"/>thecary, tempered together, the word is
+<note n="u" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Exod 30. 35. Salitum ex ſimplice va<g ref="char:EOLhyphen"/>cis Etymo. Jun</note> SALTED, which ſhows not only Miniſters excellency and peaceable<g ref="char:EOLhyphen"/>neſſe (as before) but Art alſo; yet (alas!) what crying out againſt Univerſities, Learning, Arts and Tongues? It was a curſed piece of Policy in <hi>Iulian</hi> (that Apoſtate) by Edict to forbid the Chriſtians the publike ſchools and ſtudy of the Arts and Tongues; juſting away (as my Au<g ref="char:EOLhyphen"/>thor ſaith)
+<note n="x" place="margin">
+                  <hi>Speeds</hi> Hiſt. of great
+<hi>Brit<g ref="char:EOLhyphen"/>taine. l. 6. c. 48. p. 168. n.</hi> 8.</note>
+               <q>the reaſon of his injuſtice with ſcoffs, ſaying, that
+<hi>Ariſtotle, Iſocrates,</hi> and <hi>Plato,</hi> (who muſt be their guides in ſuch liberal learnings) adoring <hi>Mercury</hi> and o<g ref="char:EOLhyphen"/>ther gods, he held it abſurd that they ſhould read and learn of their books, that loath and rayle at their religion.</q> Thus would theſe men do that decry learning, if they had pow<g ref="char:EOLhyphen"/>er in their hands anſwerable to the malice in their hearts, and to the ignorance in their heads. Its ſtrange to me that your children muſt ſerve an Apprentiſhip of ſeven years, before they can with skill drive on a Civil trade, and yet if any pretend to the ſpirit one quarter of an year and perhaps leſſe, he is fit to ſtep up into the Pulpit, and to debauch the learned Orthodox Miniſter, <hi>Mic. 2. 11. If a manwalking in the Spirit and falſhood do lye, ſaying, I will prophecy to thee of wine and of ſtrong drink, he ſhall even be the Prophet of this People.</hi>
+               <note n="y" place="margin">
+                  <hi>Speeds</hi> Hiſt. ibid. <hi>l. 9. c.
+4. p. 462. n.</hi> 43.</note> Our <hi>Henry</hi> the firſt, (who for his learning was ſirnamed <hi>Beauclerk)</hi> was wont to ſay, An unlearned Prince is a crowned Aſſe, what then are the late ſwarm of un<g ref="char:EOLhyphen"/>learned Preachers?</p>
+            <p>3. It teacheth, 1. Miniſters their dutie, which lies in
+<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe 3.</note> three things.</p>
+            <p>
+               <pb n="12" facs="tcp:117849:9"/> 1. Perform
+<note n="y" place="margin">Sal profaci<g ref="char:EOLhyphen"/>entibus offici<g ref="char:EOLhyphen"/>um Salis.
+<hi>Par.</hi>
+               </note> the office of <hi>Salt,</hi> ſhew forth the vigour and vertue, the efficacy and excellency of <hi>Salt.</hi> Seaſon the hearts of your hearers with the wholeſome truths of the Word, 2 <hi>Tim.</hi> 4. 2.
+<hi>Preach the Word, be inſtant in ſeaſon and out of ſeaſon, reprove, rebuke,</hi> &amp;c. <hi>Chemnitius</hi> hath obſerved to my hand, that here all Miniſters are put in mind of their duty, that they diligently ſprinkle the <hi>Salt</hi> of the Law and of the Goſpel on their hearers, bring them to repentance, and preſerve them from corruption of ſinne and death. Some are impotent and cannot, like thoſe <hi>Iſa.</hi> 29. 11. <hi>and</hi> 56.
+10 (Gods houſe is prettily well ſwept from ſuch un<g ref="char:EOLhyphen"/>ſavoury
+<hi>Salt.)</hi> There are others who are idle and will not; drawing down apace on themſelves that judgement of <hi>Lots</hi> wife, of being turned into a pillar of <hi>Salt,</hi> Gen. 19. 26. Some of the Hebrew Writers ſay, the reaſon was, becauſe ſhe denyed to give <hi>Salt</hi> to her Gueſts at a feaſt the day be<g ref="char:EOLhyphen"/>fore; <hi>Pareus</hi> juſtly cenſures this for a Jewiſh fable, an idle d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eam; But its neither uncharitable nor groundleſſe to aſſert, that many are become pillars and monuments of Gods wrath to the preſent and future age, for not provi<g ref="char:EOLhyphen"/>ding this ſpiritual <hi>Salt,</hi> for the people committed to their charge, of whom <hi>I</hi> may ſay as <hi>Auſtin</hi>
+               <note n="z" place="margin">Ut nobis quoddam prae<g ref="char:EOLhyphen"/>ſtaret condi<g ref="char:EOLhyphen"/>mentum quo ſapiamus ali<g ref="char:EOLhyphen"/>quid, unde il<g ref="char:EOLhyphen"/>lud caveatur exemplum. <hi>Aug. de Civ. Dei l.</hi> 16. c. 3.</note> of <hi>Lots</hi> wife, who became a pillar of <hi>Salt,</hi> that we being ſeaſoned, may grow ſavoury and wiſe by her example. Therefore Chriſt ſaith, <hi>Luke</hi> 17. 32. <hi>Remember Lots wife.</hi>
+            </p>
+            <p>Queſt. <hi>How muſt this be done?</hi>
+            </p>
+            <p n="1">1. By <hi>preaching</hi> your Sermons firſt to your own hearts and ſouls, <hi>Mark</hi> 9. 50.—<hi>Have Salt in your ſelves,</hi>—in your <hi>hearts,</hi> as well as in your <hi>heads</hi> and <hi>hands,</hi> in your <hi>per<g ref="char:EOLhyphen"/>ſons</hi> as well as in your
+<hi>papers.</hi> If you your ſelves be not ſea<g ref="char:EOLhyphen"/>ſoned kindly with
+<hi>Salt,</hi> how can you ſeaſon others, except like <hi>Lots</hi> wife as before? If your ſpirits be unſavoury, how ſhall the ſpirits of others becom ſavoury? <hi>Ier.</hi> 23. 13. <hi>I have ſeen folly in the Prophets of</hi> Samaria,—Folly,—or (as the word
+<pb n="13" facs="tcp:117849:9"/> is, <hi rend="sup">u</hi> that which is unſavoury—<hi>Lam.</hi> 2. 14. Thy Prophets have ſeen vaine and fooliſh (or
+<note n="x" place="margin">Cambd. Rem. <hi>p.</hi> 248.</note> unſavoury) things for thee
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> In<g ref="char:EOLhyphen"/>ſulſum pro in<g ref="char:EOLhyphen"/>ſulſa. i. e. irrati<g ref="char:EOLhyphen"/>onabilia—R. D. rem evani<g ref="char:EOLhyphen"/>dam, cui non eſt ſapor. <hi>Pagn. Theſaur.</hi>
+               </note>
+               <hi>—Sprinkle</hi> therefore ſome ſalt on your own ſouls</p>
+            <p n="2">2. by <hi>Powdring</hi> your words with ſalt,
+<hi>Col.</hi> 4. 6.—let your ſpeech be—ſeaſoned with ſalt—i. e. be ſavoury, ſuch as may be holily pleaſing to the palate and <hi>taking</hi> the people. If Chriſtians ſpeeches in private, muſt be ſuch, what then muſt
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> fatuus, infipidus, in<g ref="char:EOLhyphen"/>conditus inſul<g ref="char:EOLhyphen"/>ſus. cibus—Schindl. Pen<g ref="char:EOLhyphen"/>taglott.</note> Miniſters Sermons in the Pulpit be? <hi>Eccleſ.</hi> 12. 10. The Preachers ſought to find out acceptable words<hi>—Junius</hi> reads, he ſtudyed to find—not utter <hi>quicquid in buccam ve<g ref="char:EOLhyphen"/>nerit,</hi> as they ſay. True, a man muſt ſtudy more for matter then for words, but apt words are not to be neglected, I mean not ſo much <hi>witty</hi> words, as <hi>weighty</hi> words, <hi>ſound</hi> words, not a meer <hi>ſound</hi> of words, which tickle the eare, but do not touch the heart. Some ſtomackes cannot but nauſeate good meate, when it is not well dreſſed or diſhed, what unſavoury expreſſions, nay paradoxes, drop from ſome mens mouths, for want of this ſalt? <hi>Seaſon</hi> therfore your Sermons with this ſalt.</p>
+            <p n="3">3. by <hi>Putting</hi> it on the conſciences of the people, Speak (as much as may be) to the heart. Bring the word home to the ſoul. Salt is for uſe, and application, as you muſt render tribute to whom tribute is due, &amp;c. <hi>Rom.</hi> 13. 7. ſo you muſt reach out terrour to whom terrour is due—Be not affraid of that bugge, in being accounted a Leagall Preacher, let the law be ſeaſonably preſſed, as well as the Goſpel preach<g ref="char:EOLhyphen"/>ed. Salt implyes both. Herein it is good to imitate
+<note n="y" place="margin">Sal optimum &amp; utiliſſimum eſt ciborum condimentum, ſi MODE<g ref="char:EOLhyphen"/>RATE adhi<g ref="char:EOLhyphen"/>beatur. <hi>Eflius in Col.</hi> 4.
+6.</note> 
+               <hi>Simon</hi> Deane of <hi>Lincolne,</hi> who being called to Court and becoming a favourite of King <hi>Henry</hi> 7<hi rend="sup">th</hi>, was wont to ſay; I am caſt a<g ref="char:EOLhyphen"/>mong Courtiers, as ſalt among quick Eeles, for that he made them ſtirre with his ſharp and ſalt ſpeeches. The powerfull ſprinkling of this ſalt, will ſtartle Conſcience, and make a ſinner ſtirre, and looke about him for a Saviour: only take heed of miſapplying, as
+<hi>Luk.</hi> 19. 22.—Meat may be marred
+<pb n="14" facs="tcp:117849:10"/> with too much or too little ſalt. Broken-hearted ſinners may become deſperate by unreaſonable application of the Law, and Brawny-hearted ſinners may grow more diſſolute, by unſeaſonable amplification of the free<g ref="char:EOLhyphen"/>grace of God in Chriſt;
+<hi>Scatter</hi> wiſely this <hi>Salt.</hi>
+            </p>
+            <p n="4">4. By <hi>practiſing</hi> in your life, what you preach in the Pul<g ref="char:EOLhyphen"/>pit, that he that runs may read your doctrine in your doing; Your Sermons preached in the <hi>Congregation,</hi> muſt be <hi>printed</hi> in your <hi>Converſation,</hi> elſe you are not the <hi>Salt,</hi> but the ſlime and ſand of the earth. Some take this to be the meaning of the words,
+<note n="z" place="margin">Senſus eſt qui ab ipſo Chriſto, ve<g ref="char:EOLhyphen"/>ram ac ſaluta<g ref="char:EOLhyphen"/>rem doctri<g ref="char:EOLhyphen"/>nam percepiſ<g ref="char:EOLhyphen"/>ſent, non ex<g ref="char:EOLhyphen"/>emplum vi<g ref="char:EOLhyphen"/>dendi ab aliis hominibus, pe<g ref="char:EOLhyphen"/>tere ſed aliis exemplo eſſe debere. <hi>Groti<g ref="char:EOLhyphen"/>us in loc.</hi>
+               </note> that they who receive from Chriſt true and wholeſome doctrine, muſt not fetch from others a Copy of their life, but be an example themſelves to others. Its a good caution of bleſſed <hi>Calvin,</hi>
+               <note n="a" place="margin">Videant Sa<g ref="char:EOLhyphen"/>litores ne mun<g ref="char:EOLhyphen"/>dum in ſuâ fa<g ref="char:EOLhyphen"/>tuitate foveant multo etiam magis nè pra<g ref="char:EOLhyphen"/>vo eum &amp; vitioſo ſapore. inficiant. <hi>Calv. loc.</hi>
+               </note> 
+               <hi>Let theſe Salters takeheed</hi> ſaith he) <hi>leſt they cheriſh the world in its unſavourineſſe, much more leſt they corrupt and taint it with ſome naughty and vitious ſavour.</hi> Set forth therefore this Salt in your life; but I have ſpoken ſomewhat to this in the explication of the doctrine. I ſhall only preſſe it with ſome motives, and only from this text of Scripture; and the rather becauſe intrinſecal arguments are the moſt convincing, as that is (they ſay) the beſt myrrhe that naturally flows, and is not violently extorted.</p>
+            <p>For that end conſider,</p>
+            <p n="1">1. The <hi>Vitiouſneſſe</hi> of ſuch a Miniſter, whoſe practice is not anſwerable to his preaching. The diſeaſe is incure<g ref="char:EOLhyphen"/>able, and the man incorrigible. <hi>If the Salt hath loſt its ſavour</hi> (the word is, be infatuated,
+<note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Si<g ref="char:EOLhyphen"/>cut inſulſum in cibo tranſ<g ref="char:EOLhyphen"/>fertur ad ho<g ref="char:EOLhyphen"/>minem, it a vi<g ref="char:EOLhyphen"/>ciſſim fatu<g ref="char:EOLhyphen"/>um in homine transfertur ad cibum. <hi>Chem<g ref="char:EOLhyphen"/>nit. ibid.—</hi>
+               </note> The Evangeliſt
+<hi>Mark</hi> hath it, loſt its <hi>Saltnes,</hi>
+               <note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Mar. 9. 50.</note> or be without <hi>Salt) wherwith ſhall it be ſalt<g ref="char:EOLhyphen"/>ed?</hi>—If ſome other things have loſt their ſavour or ſaltnes, they may be amended, but if the <hi>Salt</hi> hath loſt its ſaltneſſe, that loſſe is irreparable and irremediable. If a Miniſter be nought, by whom ſhall he be inſtructed? If he be bad, by whom ſhall he be amended? Therefore
+<hi>Chryſoſtome</hi>
+               <pb n="15" facs="tcp:117849:10"/> doth ſadly propound a queſtion, who ever ſaw a bad Mi<g ref="char:EOLhyphen"/>niſter a repenting man? Not that its ſimply impoſſible,
+<note n="d" place="margin">Maldonate.</note> but becauſe it rarely fals out ſo. Sad and late experience ſhews, that among the Prelates and their Party, who ap<g ref="char:EOLhyphen"/>peared againſt the cauſe of God, where is the man that hath ſmote on his thigh, and ſaid, what have I done
+<note n="e" place="margin">Ezek. 22. 30.</note>? The Lord ſought for a man AMONG THEM, (mark it) that ſhould make up the hedge, and ſtand in the gap before him for the Land,—but found NONE.</p>
+            <p n="2">2. The <hi>Vanity</hi> of ſuch unſavoury <hi>Salt,</hi> or rather <hi>unprofit<g ref="char:EOLhyphen"/>ableneſſe.</hi>—Its good for nothing, or
+<hi>(Luke</hi> 14. 35.) <hi>Its neither fit for the Land, nor yet for the dunghill.</hi> Some things which are degenerate, and have loſt their natural property and uſe, are yet good for ſomething.
+<note n="f" place="margin">Maldonate.</note> Clipt ſilver and waſh't gold are not good for the Merchant and Tradeſ<g ref="char:EOLhyphen"/>man to traffique withal, yet may ſerve the Goldſmith to throw into the Furnace; but a ſcandalous Miniſter is like <hi>Salt,</hi> and like <hi>Ieremiahs</hi> Girdle,
+<note n="g" place="margin">c. 13. 7, 10.</note> good for nothing. A Ragge, if it be not fit to wear, is fit for the dunghil, but un<g ref="char:EOLhyphen"/>ſavoury
+<hi>Salt</hi> is hurtful to very dunghils,—<hi>Sterquiliniis quoque ſterilitatem inducit,</hi> (as <hi>Calvin</hi> ſpeaks,) <hi>It makes a ve<g ref="char:EOLhyphen"/>ry dunghil barren.</hi> Torn fleſh might not be mans meat, but dogs meat,
+<hi>Exod.</hi> 22. 31.—<hi>Cast it to the dogs,</hi> but tainted fleſh is good for neither. A Vine, if it be not for fruit, its for fire,
+<hi>Ezek.</hi> 15. 2, 3.—This unſavoury <hi>Salt</hi> is good for nothing, but to be caſt into the fire of hell. Un<g ref="char:EOLhyphen"/>holy Miniſters do a great deal of hurt
+<note n="h" place="margin">Vivi mor<g ref="char:EOLhyphen"/>dent, mortui faetent.
+<hi>Austin</hi>
+               </note> alive and dead.</p>
+            <p n="3">3. The <hi>Viloneſſe</hi> of it,—<hi>Good for nothing, but to be caſt out and tyoden underfoot of men.</hi> As we that caſt any thing out of doors into the ſtreets or high ways, all that<g ref="char:punc">▪</g> paſſe by, tread on it as a thing of no account: ſo ſaid he, <hi>Calcate me tanquam Salem inſipidum,</hi> tread on me as unſavoury <hi>Salt,</hi> its the language of a Miniſters lewd life, and a juſt reward too. 1
+<hi>Sam.</hi> 2. 30.—<hi>They that deſpiſe me, ſhall be lightly eſteem<g ref="char:EOLhyphen"/>ed,</hi>
+               <pb n="16" facs="tcp:117849:11"/> Mal. 2. 9. <hi>Therefore I have alſo made you contemptible and baſe before all the people.</hi>—If Mr.
+<hi>Brightm.</hi> be right, Jeſus Chriſt hath made that good, <hi>Rev. 3.
+16.—I will ſpue thee out of my mouth,</hi>—Its a true maxime in Philoſophy,
+<note n="i" place="margin">Corruptio optimi eſt peſ<g ref="char:EOLhyphen"/>ſima.</note> the better a thing is, the worſe it is when it is corrupted, and as true, and an excellent ſaying of <hi>Salvian;</hi>
+               <note n="k" place="margin">Vbi ſub limi<g ref="char:EOLhyphen"/>or Praerogati<g ref="char:EOLhyphen"/>va, ibi major culpa. <hi>Salv. de Gub. dei l. 4 p.</hi> 128.</note> The greatneſſe of the Privi<g ref="char:EOLhyphen"/>ledge, addes to the greatneſſe of the fault. The Papiſts do ſo prodigally and prodigiouſly abuſe <hi>Salt,</hi> that as <hi>(P. Martyr</hi>
+               <note n="l" place="margin">P. Martyr loc. com. Claſſ. 4. c. 9. p.
+839.</note> ſaith) they diſcover themſelves to be <hi>Salem infatuatum,</hi> i. e. unſavoury <hi>Salt.</hi> So Cardinal <hi>Cajetan</hi> ingenuouſly confeſſed, when the Spaniards ſacked &amp; ſpoiled the City of <hi>Rome</hi> un<g ref="char:EOLhyphen"/>der <hi>Clement.</hi> the 8. Becauſe (ſaid he) weare now become un<g ref="char:EOLhyphen"/>ſavoury <hi>Salt,</hi> therfore we are caſt out and troden under foot. And is it not as true of ſome Proteſtant Miniſters?</p>
+            <p>2. Be not troubled at the envy, hatred, malice and reproch of the world. <hi>Chryſoſt.</hi> notes, that it is not to be wondred at, if the men of the world rail and revile, oppoſe and perſecute Gods faithful Miniſters; for its the nature of good and right <hi>Salt</hi> to bite, which is unwelcome to the fleſh; when therfore you are beſpattered with reproaches, and purſued with per<g ref="char:EOLhyphen"/>ſecutions, its an evident teſtimony that your <hi>Salt</hi> retains its acrimony and vertue. And its obſervable, after our Saviour Chriſt had ſpoken of perſecution, he adds preſently, <hi>ye are the Salt of the Earth,</hi> as if he would diſcharge a warning-peece. Thus your Miniſtry will be very unpleaſing and ungrateful to the corrupt world, and the rather, becauſe your office is to declare, that all men out of Chriſt, though never ſo world<g ref="char:EOLhyphen"/>ly wiſe or morally honeſt, are unſavoury before God, but be not diſcouraged, <hi>Salt</hi> will make the greateſt ſound in the fire, yea <hi>Salt</hi> will keep beſt by the fire-ſide, when the moyſt or dank weather of peace may melt it,
+<note n="m" place="margin">Vos eſtis Sal terrae, quid igitur terrae-motum ad verſum, vos curabitis <hi>Par. in loc.</hi>
+               </note> 
+               <hi>Ye are the Salt of the Earth,</hi> what need yee quake at an Earthquake?</p>
+            <p>3. Comfort your hearts in the conſcionable diſcharge of your duty, (theſe words are not only a warning-peece, but a
+<pb n="17" facs="tcp:117849:11"/> gracious cordial <hi rend="sup">n</hi> or ſweet promiſe, whereby Chriſt engageth him<g ref="char:EOLhyphen"/>ſelf
+<note place="margin">
+                  <hi>m</hi> Verba illa (vos eſtis Sal terra) reacci<g ref="char:EOLhyphen"/>piuntur par tìm ut commo<g ref="char:EOLhyphen"/>nè factio, par<g ref="char:EOLhyphen"/>tim ut promiſ<g ref="char:EOLhyphen"/>ſio. <hi>Chemnit. in loc.</hi>
+               </note> to make the Miniſtry fruitful, <hi>q. d.</hi> I will be preſent in your Mini<g ref="char:EOLhyphen"/>ſtry by the bleſſing, grace &amp; efficacy of my Spirit, <hi>that your labor ſhall not be in vain in the Lord;</hi> Nay, I will work ſo, as by your Miniſtry, the putrid humor of ſin ſhall be purged from ſome, and the Regene<g ref="char:EOLhyphen"/>rate by the uſe of this <hi>Salt,</hi> ſhall be preſerved, as that they ſhall not totally and finally fall away from the grace of God, 1 <hi>Pet. 1. 5. They are kept by the power of God, through faith unto ſalvation—</hi>
+            </p>
+            <p>2. It holds forth the duty of the people too. Are the Miniſters of Chriſt, <hi>the Salt of the earth?</hi> Then 1. Be willing to take ſalt,
+<hi>Jer. 22. 29. O earth, earth, earth hear the words of the Lord.</hi> This repetition implys a vehement Increpation for their dulnes this way,
+<note n="o" place="margin">Grande opus eſt inſaliri, qui ſale con<g ref="char:EOLhyphen"/>ditur, g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atiâ plenus eſt. Nam &amp; in communi Pro<g ref="char:EOLhyphen"/>verbio, ſalſus dicitur gratio<g ref="char:EOLhyphen"/>ſus, &amp; inſulſus qui non habet gratiam. <hi>Orig.</hi>
+               </note> 
+               <hi>Heb. 13.
+22—Suffer the word of exhortation;</hi> you ſhall part with nothing but what you may beſt ſpare, even thoſe ſuperfluous humours, which, if they be, let alone, will be undoubtedly the bane and putrefaction of the ſoul. What is it you can do better,
+<note n="p" place="margin">Nihil melius eſt quàm con<g ref="char:EOLhyphen"/>dimentum ad<g ref="char:EOLhyphen"/>mittere, quo ſolo, noſtra in<g ref="char:EOLhyphen"/>ſul fit as corri<g ref="char:EOLhyphen"/>gitur.
+<hi>Calv.</hi>
+               </note> then to admit of that ſeaſon<g ref="char:EOLhyphen"/>ing, wherby your unſavourines may be amended? Oh that you were of <hi>Baldaſſars</hi> mind, writing to <hi>Oecolampadius; Veniat, veniat verbu<g ref="char:cmbAbbrStroke">̄</g> Domini, &amp;c.</hi> Let the Word of the Lord come, let it come, and if we had 600. necks, we would put them all under the yoke of Jeſus Chriſt. Of ſuch a temper was
+<hi>Cornelius</hi> and his company, will you ſay ſo to your Miniſter, as they to <hi>Peter? Act. 10. 33. Now are we all here preſent before God, to hear all things that are commanded thee of God.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> We cannot abide it. <hi>Anſ.</hi> 1. A wounded ſouldier can and will endure a little ſalt, leſt his wound ſhould feſter and rankle; Salt is a means to heal a wound, as thoſe waters mentioned 2 <hi>King.</hi> 2. 20. 21, 22. 2. If not, <hi>you ſhall be given up to Salt. Ezek. 47. 11. But the miry places &amp; the mariſhes ſhall not be healed, they ſhal be given to SALT.</hi> For the ſin of barrenneſs, God will ſmite you with the curſe of bar<g ref="char:EOLhyphen"/>renneſs; ſo Salt ſomtimes importeth, as <hi>Judg.</hi> 9. 45. with <hi>Zeph.</hi> 2. 9. 3. Nay, hereafter you ſhall have Salt with a vengeance, <hi>Mark. 9. 50. Every one ſhall he ſalted with fire</hi>—i. e. every one of the damned in hell, ſhall be ſalted with fire, (as ſome expound it,) or every one muſt be ſalted with the grace of God, or with the fire of Gods wrath, as others expound it. 4. I will tell you a word of comfort, if you can take comfort in it, the time will come, that all this Salt ſhal be taken from you, the preſence of this Salt troubles you now, but the abſence of this Salt ſhall trouble you more hereafter. <hi>Dives</hi> de<g ref="char:EOLhyphen"/>ſired but one
+<note n="q" place="margin">Negavit guttam ei, qui negavit mi<g ref="char:EOLhyphen"/>cam.—<hi>Aust.</hi>
+               </note> drop of water to cool his tongue, and it was denied
+<pb n="18" facs="tcp:117849:12"/> him, you ſhall deſire but one grain of this Salt to ſeaſon your ſoul, and it ſhall be denied you: Not a Miniſter dare peep out of hea<g ref="char:EOLhyphen"/>ven to comfort you.</p>
+            <p>2 Make it to appear, that you have taken Salt, by ſweetneſſe, &amp;c. For want of this, many ſtink above ground, like carrion in a ditch, or like <hi>Moab, Jer 48. 11.—his taſt remained in him, and his ſent is not changed.</hi> Its a great ſin and ſhame, there ſhould be any tainted peece of fleſh under a powerful and faithful Miniſtry. In Bap<g ref="char:EOLhyphen"/>tiſme,
+<note n="r" place="margin">Salem vo<g ref="char:EOLhyphen"/>lunt conſecra<g ref="char:EOLhyphen"/>tum in os
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i, ut—conditus, iniquitatis foe<g ref="char:EOLhyphen"/>tore careat.
+<hi>i. e.</hi> carere ſigni<g ref="char:EOLhyphen"/>ficetur. &amp;c. <hi>Chamier. de Baptiſ. l. 5. c. 16 n.</hi> 11.</note> the Papiſts will have Salt put into the mouth of the party baptized, to ſignifie a preſervation from the worms of ſin, and a preparation to the ſavour of wiſdom. This, which is a brand of their ſuperſtition, will be a badge of your Religion, to evidence it by an unſpotted and untainted life, that you have kindly taken Salt.</p>
+            <p>3. Maintain your Miniſters willingly and liberally. They are as Salt to preſerve you, why ſhould not you preſerve them? in their Names, in their States, in their Bodies in their Liberties &amp;c. as much as in you lieth. Salt anciently was a ſign of an inferiours duty, wher<g ref="char:EOLhyphen"/>by he was bound to a ſuperiour; whence comes the word
+<note n="s" place="margin">
+                  <hi>Diod. in Le<g ref="char:EOLhyphen"/>vit.</hi> 2. 13.</note> Salary or wages as ſome think, <hi>Gal. 6 6. Let him that is taught in the Word, communicate to him that teacheth in all good things.</hi> Preaching Preſ<g ref="char:EOLhyphen"/>byters are worthy of double honor, 1 <hi>Tim. 5. 17. ſc.</hi>
+               <note n="s" place="margin">Videtur du<g ref="char:EOLhyphen"/>plicem hono<g ref="char:EOLhyphen"/>rem dicere &amp; alimenta, quae &amp; ipſa il<g ref="char:EOLhyphen"/>lis cum hono<g ref="char:EOLhyphen"/>re dantur ut Regibus tribu<g ref="char:EOLhyphen"/>ta.
+<hi>Grot. in 1 Tim.</hi> 5. 17.</note> honor of main<g ref="char:EOLhyphen"/>tenance as well as of reverence. We have had a Century of ſcanda<g ref="char:EOLhyphen"/>lous Miniſters, I hope we ſhall never ſee or hear a Century of pious Miniſters complaining of a ſcandalous maintenance. Do not mi<g ref="char:EOLhyphen"/>ſtake me, I preach not for Tythes: In the Prelaticall times, I can ſay (and that truly) I could never be moulded into that opinion, that Tythes now under the Goſpel are <hi>Jure Divino;</hi> yet I cannot but relate a remarkable paſſage,
+<note n="t" place="margin">A Vindica<g ref="char:EOLhyphen"/>on of the Pres<g ref="char:EOLhyphen"/>byterial Go<g ref="char:EOLhyphen"/>vernment and Miniſtry. <hi>p.</hi> 81.</note> publiſhed lately by the Reverend Miniſters &amp; Elders met together in a Provincial Aſſembly at
+<hi>Lon<g ref="char:EOLhyphen"/>don, Novemb.</hi> 2. 1649. That the deſign of taking away Tythes from the Miniſtry, was firſt invented by that curſed Apoſtate
+<hi>Julian,</hi> who (as Mr. <hi>Stock,</hi>
+               <note n="u" place="margin">Mr. <hi>Stock</hi> on <hi>Mal.</hi> c.
+3.</note> that Reverend, Pious and painful Preacher hath ob<g ref="char:EOLhyphen"/>ſerved) by this means is noted more to have overthrown the Church then all the perſecuting Emperours before him. Becauſe they took away Presbyters, (and the Martyrs blood was the ſeed of the Church) but he took away Presbyterian, the Miniſtry it ſelf, in withdrawing the maintenance from the Church, and ſo over<g ref="char:EOLhyphen"/>threw the worſhip of God. Let me be bold to adde hereunto an ex<g ref="char:EOLhyphen"/>preſſion of a good old Non-conformiſt, (on <hi>Prov. 20. 25. Its a ſnare
+<pb n="20" facs="tcp:117849:12"/> to the man who devoureth that which is holy)</hi> I mean learned and re<g ref="char:EOLhyphen"/>ligious M. <hi>Cartw.</hi>
+               <note n="w" place="margin">Illud eſt ſacrum quod ſacris uſi<g ref="char:EOLhyphen"/>bus vel Dei inſti<g ref="char:EOLhyphen"/>tuto &amp; juſſu, vel hominum volun<g ref="char:EOLhyphen"/>tarià &amp; ſpontanea largi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one addi<g ref="char:EOLhyphen"/>ctum &amp; devo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um eſt.—I am ſub Evangel. tametſi primitiae &amp; deci<g ref="char:EOLhyphen"/>mae neceſſariae non ſunt tamen quicquid aut le<g ref="char:EOLhyphen"/>ge, conſtitutum aut hominum li<g ref="char:EOLhyphen"/>beralitate col<g ref="char:EOLhyphen"/>latum ad hos u<g ref="char:EOLhyphen"/>ſos eſt, illud om<g ref="char:EOLhyphen"/>ne ſacrum haben<g ref="char:EOLhyphen"/>dum eſt; ob t<g ref="char:EOLhyphen"/>amque cauſam horum aut SVR<g ref="char:EOLhyphen"/>LATIO, aut eti<g ref="char:EOLhyphen"/>am diminutio ſacrilegii cri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e damnatur. <hi>T. C. loc.</hi>
+               </note> who ſaith; That is holy, w<hi rend="sup">ch</hi> is ſet a part either by the co<g ref="char:cmbAbbrStroke">̄</g>mand &amp; inſtitution of God, or voluntary donation of me<g ref="char:cmbAbbrStroke">̄</g> for holy uſes, as the miniſtry of the word, &amp;c. Now, though Firſt-fruits and Tythes are not neceſſary under the Goſpel, yet whatſoever is e<g ref="char:EOLhyphen"/>ſtabliſhed by Law, or conferred by mens bounty to ſuch uſes, all that is to be accounted holy; and therfore the taking away or diminiſh<g ref="char:EOLhyphen"/>ing of theſe things is no better then Sacriledge, <hi>Deut.</hi> 23. 21, 22, 23. I ſhall conclude this with that famous place. 1 <hi>Cor. 9. 11. If we have ſown to you ſpiritual things, is it a great thing, if we ſhall reap your car<g ref="char:EOLhyphen"/>nal things? 13. Even ſo the Lord hath ordained, that they which preach the Goſpel, ſhould live of the Goſpel.</hi> Which words are part of a com<g ref="char:EOLhyphen"/>pariſon between Levitical and Evangelical Miniſters, both in their
+<hi>work</hi> and in their <hi>wages.</hi> The Protaſis or Propoſition is ſet down in <hi>v.</hi> 13. and the Apodoſis or Reddition in <hi>v.</hi>
+14. Even ſo—The Goſ<g ref="char:EOLhyphen"/>pel (in the end of this verſe) is taken for a reward for ſome good ti<g ref="char:EOLhyphen"/>dings, if Mr. <hi>Mede</hi>
+               <note n="x" place="margin">Medes works in 4<hi rend="sup">o</hi>. 1. Vol. p. 329.
+<hi>&amp;c.</hi>
+               </note> may be beleeved, who ſhews abundantly, the ſenſe of that word out of many Greek Authors—yea out of the Hebrew, Chaldee, and Septuagint Languages, wherein S<hi rend="sup">t</hi>. <hi>Paul</hi> was brought up. Nay, makes it more then probable, its ſo taken <hi>ver. 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. This I do, for the Goſpels ſake, that I might be partaker thereof with you.</hi> What <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Goſpel ſhould it be, that <hi>Paul</hi> here aimed to be partaker of but ſome
+<note n="y" place="margin">Non tan<g ref="char:EOLhyphen"/>quam venale ſit Evang. ut iſtud fit pre<g ref="char:EOLhyphen"/>tium ejus, quod ſumunt qui annunti<g ref="char:EOLhyphen"/>ant unde vi<g ref="char:EOLhyphen"/>vant. Si enim ſic vendunt, magnam rem vili pretio vendunt. <hi>Aug. l. de paſtorib. c.</hi> 2.</note> 
+               <hi>Praemium</hi> or Reward? for it immediatly fol. lows,
+<hi>v. 24. Know ye not, that they which run in a race run all, but one receiveth the prize?</hi>—But perhaps I have made an unpleaſing di<g ref="char:EOLhyphen"/>greſſion, I proceed to the fourth <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi>
+            </p>
+            <p>4. Mourn for the loſſe of Chriſts Miniſters. The taking away of Tythes, is nothing to the taking away of Truths, or Truth-preach<g ref="char:EOLhyphen"/>ing Miniſters, whether by death or otherwiſe. A godly
+<note n="z" place="margin">Mr. <hi>W.</hi>
+               </note> Preacher at Prees-Exerciſe told us, that when the Salt fals toward one at ta<g ref="char:EOLhyphen"/>ble, its counted ominous. That is but a toy ſaid he, and a peece of ſuperſtition; but if this Salt fall from you, that is truly grievous and rightly ominous, it bodes no good, but evill; Nay, I tell you its one of the greateſt evils,
+<hi>Mic. 2. 6.—They ſhall not propheſie to them</hi>—Salt commonly is the laſt thing taken away from the Table, and when that is gone, dinner or ſupper is quite ended. Oh! if this <hi>Salt</hi> be taken away, there is an end of Sabbaths, an end of Sermons, an end of Sacraments, &amp;c. So that we may ſay with the Prophet in an<g ref="char:EOLhyphen"/>other caſe,
+<note n="a" place="margin">Ezek. 7. 5, 6.</note> 
+               <hi>An evil, an only evil, behold it is come. An end is come,—</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:117849:13"/> 5. Pray frequently and fervently, that God would ſend this <hi>Salt,</hi> where it is wanting, and bleſs it, where it is ſent. I ſay to you, as Chriſt ſaid to his Diſciples, <hi>Mat. 9.
+37, 38. The harveſt truly is plente<g ref="char:EOLhyphen"/>ous, but the Labourers are few. Pray ye therefore the Lord of the har<g ref="char:EOLhyphen"/>veſt that he would ſend forth,</hi> (or
+<note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Sig<g ref="char:EOLunhyphen"/>nificatur non ſola divinae providentiae diſpenſatio ſed collatio ſpeci<g ref="char:EOLhyphen"/>alis poteſtatis cum peculiari<g ref="char:EOLhyphen"/>bus donis &amp; mandatis. <hi>Grot.</hi>
+               </note> thruſt forth) <hi>Labourers into his harveſt,</hi> not out of, but into his harveſt; implying Miniſterial <hi>Autho<g ref="char:EOLhyphen"/>rity,</hi> as well as
+<hi>Ability.</hi> You can hardly eat a bit of meat without ſalt; if it be wanting, you will cry, at leaſt, call for it: Me thinks all your enjoyments ſhould be like the white of an egge, unſa<g ref="char:EOLhyphen"/>vory, without the <hi>Salt</hi> of the Miniſtry. And let Gods promiſe be the ground of your prayer,
+<hi>Iſ. 30. 20. And though the Lord give you the bread of adverſity, and the water of affliction, yet ſhall not thy Teachers &amp;c.</hi> And when you have this <hi>Salt</hi> beg a bleſſing. Your Miniſters <hi>preaching</hi> doth much-what depend on your <hi>praying,</hi> perhaps he is dead and dull in preaching, becauſe ye have been ſo in praying. Its not the Apothecaries drug, but Gods bleſſing on and with it, that makes it work kindly. How oft doth <hi>Paul</hi> (a man of a high pitch of holines, of a tall ſtature in Chriſt) beg the prayers of others? <hi>Eph.</hi> 6. 19.—And For Me,
+<hi>q. d.</hi> pray for all the Saints, but for me in ſpecial; If you ſhould forget others, yet do not forget me. <hi>Bernard</hi> deſiring a friend to pray for him, when he had neareſt co<g ref="char:cmbAbbrStroke">̄</g>munion with God, then (ſaid he) remember me. Ile ſay no more, but take up the words of holy
+<hi>Bradford</hi> in this juncture of time, <hi>O pray, pray, pray.</hi>
+            </p>
+            <p>6. Be thankful, you that enjoy this <hi>Salt.</hi> When Salt was wanting in ſome of our Gariſons, how unwholſome did Beef prove to ſome fo our Soldiers? and how glad were they when they could get ſome Salt?
+<hi>Micah,</hi> a very Idolater, could conclude, <hi>Judg. 17. 13. Now I know, that the Lord will do me good, ſeeing I have a Levite to be my Prieſt;</hi> much more may you conclude, that God intends good to you, ſince he hath ſet &amp; ſent this <hi>Salt</hi> among you; nay, this is an argument of Gods Love. Anciently Salt
+<note n="c" place="margin">Symbolum amicitiae fuit Commutatio Salis.
+<hi>Chem.</hi> &amp; <hi>Diod.</hi>
+               </note> was a token of freindſhip, and it went for a common proverb, <hi>familiar freinds do uſe the ſame Salt;</hi> i. e. feed at one and the ſame table. The Saints may conclude, as
+<hi>David</hi> in an<g ref="char:EOLhyphen"/>other caſe, <hi>Pſ. 41. 11. By this I know thou favourest me—</hi>
+            </p>
+            <p>To wind up all in one word; Providence hath pitcht my thoughts on this Subject, that whenſoever you ſee Salt on a table, whether Miniſter or people, you may remember your duty reſpectively. And let me beſeech you to take what I have ſaid, <hi>cum grano Salis,</hi> with a grain of Salt, and then all will relliſh well, which that you may do, let us pray—</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
